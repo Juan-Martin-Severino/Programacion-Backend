@@ -1,0 +1,78 @@
+[
+    {
+        "id": "8a4c1629-acc9-4278-ac5e-904a1539fc4e",
+        "status": true,
+        "title": "mesa",
+        "description": "algarrobo cuadrada",
+        "code": "a5896",
+        "price": 4567,
+        "stock": 2,
+        "category": "muebles",
+        "thumbnails": []
+    },
+    {
+        "id": "e341c830-996c-4369-ac14-caaf8be9fcf4",
+        "status": true,
+        "title": "mesa",
+        "description": "algarrobo cuadrada",
+        "code": "a5896",
+        "price": 4567,
+        "stock": 2,
+        "category": "muebles",
+        "thumbnails": []
+    },
+    {
+        "id": "e33f79df-e02a-49b2-a3a1-7af145947101",
+        "status": false,
+        "title": "mesa",
+        "description": "algarrobo cuadrada",
+        "code": "a5896",
+        "price": 4567,
+        "stock": 2,
+        "category": "muebles",
+        "thumbnails": []
+    },
+    {
+        "id": "be7085a1-10e2-4ee4-b86a-cfa3f722312c",
+        "status": true,
+        "title": "silla",
+        "description": "Ergonómica",
+        "code": "s4545",
+        "price": 3500,
+        "stock": 5,
+        "category": "muebles",
+        "thumbnails": []
+    },
+    {
+        "id": "25eb6c3f-e9c1-43c3-8ee3-9e5f66a4eb12",
+        "status": false,
+        "title": "mesa",
+        "description": "algarrobo cuadrada",
+        "code": "a5896",
+        "price": 4567,
+        "stock": 30,
+        "category": "muebles",
+        "thumbnails": []
+    },
+    {
+        "id": "02e11a62-fbbe-4bad-880e-6bf154a5a69e",
+        "status": true,
+        "title": "heladera",
+        "description": "no frost",
+        "code": "h8745",
+        "price": 500685,
+        "stock": 23,
+        "category": "electrodomestico",
+        "thumbnails": []
+    },
+    {
+        "id": "a2e21ff1-c77c-4997-a41a-bf3873b1388e",
+        "status": false,
+        "title": "televisor",
+        "description": "smart tv",
+        "code": "t8974",
+        "price": 785478,
+        "stock": 15,
+        "category": "tecnologia"
+    }
+]
