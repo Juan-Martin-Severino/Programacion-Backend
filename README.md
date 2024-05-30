@@ -12,3 +12,4 @@ En este repositorio se encuentran los trabajos del curso "Programación Backend 
                     -Se valida que únicamente el Id no sea enviado.
                     -Se agrega tabulación "\t" al momento de escribir los archivos "carrito.js" y "productos.js" para POST Y DELETE
 
+-En Preentrega 2 se encuentran los archivos correspondientes a la 2da Preentrega
